@@ -10,4 +10,6 @@ kruskals: It is an algorithm for finding the minimum cost spanning tree of the g
 
 djikstra's: Dijkstra algorithm is also called single source shortest path algorithm. It is based on greedy technique. The algorithm maintains a list visited[ ] of                   vertices, whose shortest distance from the source is already known.
 
+New content is added and necessary changes are made in this text file 
+
 
